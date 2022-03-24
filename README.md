@@ -1,9 +1,8 @@
 # Realtime pizza app using Node-express-mongo-socket.io
 
-![Realtime Pizza app](https://github.com/codersgyan/realtime-pizza-app-node-express-mongo/blob/master/Screenshot%202020-09-21%20at%2023.03.06.png?raw=true)
 
-
-
+this is realtime pizza website.In this i have given feature of orderplacing,live order tracking,passport authentication,add,to cart,remove from cart,payment strike option,login,register option.Technologies used->HTML,CSS,TAILWIND CSS,SASS,JS,REACTJS,SOCKETIO,NODEJS,EXPRESSJS,MONGODB,FIREWALL. 
+https://github.com/ashish9752/realtimepizza
 
 ## Installation 
 After download or clone run `npm install` OR `yarn install` to install all the dependancies.
